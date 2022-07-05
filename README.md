@@ -1,1 +1,0 @@
-# -SIIM-Melanoma-Challenge
